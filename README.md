@@ -14,6 +14,7 @@ A simple BitTorrent client built in Python with a GUI interface for practicing P
 - [License](#license)
 
 Introduction
+
 This project is a Python-based BitTorrent client developed to understand the fundamentals of the BitTorrent protocol. It enables users to connect to peers, perform the BitTorrent handshake, and download pieces of a file through the protocol. The client also comes with a GUI for better interaction.
 
 Features
